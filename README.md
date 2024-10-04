@@ -12,7 +12,7 @@ This is my first Docker project, aimed at learning how Docker works. It's a simp
 
 ## Technologies Used
 
-### Docker <img src="https://imgs.search.brave.com/uBUr9BZK3jBX-im5HyUDdiwOTfmhAPRK2X04aJVnbGk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMjlm/aHB3MDY5Y3R0Mi5j/bG91ZGZyb250Lm5l/dC9pY29uL2ltYWdl/LzM4NzcxL3ByZXZp/ZXcuc3Zn" alt="Docker Icon" height="40" width="60">
+### Docker <img src="https://imgs.search.brave.com/uBUr9BZK3jBX-im5HyUDdiwOTfmhAPRK2X04aJVnbGk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMjlm/aHB3MDY5Y3R0Mi5j/bG91ZGZyb250Lm5l/dC9pY29uL2ltYWdl/LzM4NzcxL3ByZXZp/ZXcuc3Zn" alt="Docker Icon" height="40" width="40">
 
 
 Docker is an open platform for developing, shipping, and running applications. It allows you to package an application with all its dependencies into a standardized unit called a container. 
